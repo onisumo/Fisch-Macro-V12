@@ -19,7 +19,7 @@ AutoZoomInCamera := true
 AutoZoomDelay := 50
 
 ; Set to true to check for camera mode and enable it
-AutoEnableCameraMode := true
+AutoEnableCameraMode := false
 AutoCameraDelay := 50
 
 ; Set to true to automatically look down
